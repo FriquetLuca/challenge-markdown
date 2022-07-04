@@ -12,7 +12,7 @@
 | Genre             | Homme      |
 | Couleur favorite | Noir (C'est pas une couleur mais bon) |
 | Nourriture favorite | La pizza |
-| Ananas sur la pizza |  - [ ] Oui - [X] Non |
+| Ananas sur la pizza |  <ul><li>- [ ] Oui</li><li>- [X] Non</li></ul> |
 
 ## Hobbies
 
