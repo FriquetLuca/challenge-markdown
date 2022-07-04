@@ -16,8 +16,6 @@
 
 ## Hobbies
 
-- Le BDSM
-    - Le bondage
 - Les mathématiques
     - Analyse
         - Combinatoire
@@ -108,4 +106,4 @@ On était à quatre sur mon scooter pour aller au magasin. L'un était sur le gu
 
 #### On a perdu Malcolm en chemin.
 
-<< [previous]() || FRIQUET LUCA || [next]() >>
+<< [Précédent](https://github.com/Roulian1/challenge-markdown/blob/main/README.md) || FRIQUET LUCA || [Suivant](https://github.com/sophiegillard/challengeMarkdown_Sophie/blob/main/README.md) >>
