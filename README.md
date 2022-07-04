@@ -1,6 +1,6 @@
 # FRIQUET LUCA
 
-> Fume la vie avant que la vie te fume.
+> Fume avant que la vie te fume.
 
 ![Profile picture](Images/friquet_luca.jpg)
 
